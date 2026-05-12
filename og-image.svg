@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e1a"/>
+      <stop offset="100%" stop-color="#1a1e2e"/>
+    </linearGradient>
+    <linearGradient id="btc" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f7931a"/>
+      <stop offset="100%" stop-color="#ffb347"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="260" text-anchor="middle" font-family="system-ui,sans-serif" font-size="64" font-weight="800" fill="url(#btc)">⚡ CryptoTab Browser</text>
+  <text x="600" y="340" text-anchor="middle" font-family="system-ui,sans-serif" font-size="28" fill="#8892a8">Mine Bitcoin While You Browse</text>
+  <text x="600" y="390" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" fill="#6b7490">35M+ Users · Free Download · Daily BTC Payouts</text>
+  <circle cx="600" cy="480" r="50" fill="none" stroke="#f7931a" stroke-width="3" opacity="0.3"/>
+  <line x1="600" y1="430" x2="600" y2="530" stroke="#f7931a" stroke-width="2" opacity="0.3"/>
+  <line x1="550" y1="480" x2="650" y2="480" stroke="#f7931a" stroke-width="2" opacity="0.3"/>
+</svg>
